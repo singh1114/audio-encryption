@@ -1,10 +1,10 @@
-﻿audio-encryption
+#audio-encryption
 
 
 A simple and elegant way for peer-to-peer communication through audio encryption and decryption.
 
 
-Idea
+##Idea
 
 
 Instead of the usual hashing techniques converting text into some gibberish, here we employ a similar method except we do the same the thing to audio data.
